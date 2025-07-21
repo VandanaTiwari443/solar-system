@@ -1,0 +1,13 @@
+div
+{
+	height: 100px;
+	width: 100px;
+	border:  2px solid black;
+	display: inline-block;
+	background-image: url("nature.jpg");
+	background-size:cover ;
+	position: fixed;
+	top:20px;
+	right:0px;
+
+}
